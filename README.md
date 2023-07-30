@@ -1,4 +1,4 @@
-                                                     **BUSS PASS MANAGEMENT SYSTEM**
+                                             **BUSS PASS MANAGEMENT SYSTEM**
 
 In this project me and my team created a website to ease the process of applying and updating the monthly pass system.
 
